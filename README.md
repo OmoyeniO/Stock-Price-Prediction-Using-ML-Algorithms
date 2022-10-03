@@ -11,5 +11,5 @@ Investment firms, hedge funds and even individuals have been using financial mod
 
 For this project, I will build a stock price predictor that takes daily trading data over a certain date range as input, and outputs projected estimates for given query dates. 
 
-# #Data
+## Data
 Yahoo Finance 
