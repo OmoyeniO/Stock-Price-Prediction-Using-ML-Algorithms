@@ -13,3 +13,8 @@ For this project, I will build a stock price predictor that takes daily trading 
 
 ## Data
 Yahoo Finance 
+
+
+
+
+# WORK IN PROGRESS
